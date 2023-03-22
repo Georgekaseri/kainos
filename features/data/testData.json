@@ -1,0 +1,108 @@
+{
+  "url": "https://www.workday.com/",
+  "verifyUrl": {
+    "OurTechnologyUrl": "https://www.workday.com/en-us/why-workday/our-technology/overview.html",
+    "WorkdayHumanCapitalManagementUrl": "https://www.workday.com/en-us/products/human-capital-      management/overview.html",
+    "EducationUrl": "https://www.workday.com/en-us/solutions/industries/education.html",
+    "communityUrl": "https://www.workday.com/en-us/customer-experience/community.html",
+    "PayrollUrl": "https://www.workday.com/en-us/resources.html?topic.id=payroll",
+    "OurValuesUrl": "https://www.workday.com/en-us/company/about-workday/core-values.html"
+  },
+"title": "Workday Enterprise Management Cloud  | Finance, HR, Planning, Spend",
+"whyWorkdayLinks":{
+    "link1": "Why We're Different",
+    "link2": "Our Technology",
+    "link3": "Trust"
+},
+"productsLinks" : {
+    "link1": "Workday Financial Management",
+    "link2": "Workday Human Capital Management",
+    "link3": "Workday Adaptive Planning",
+    "link4": "Workday Peakon Employee Voice",
+    "link5": "Workday Strategic Sourcing",
+    "link6": "Analytics and Reporting",
+    "link7": "Payroll",
+    "link8": "Workforce Management",
+    "link9": "Spend Management",
+    "link10": "Talent Management",
+    "link11": "Professional Services Management",
+    "link12": "Student",
+    "link13": "Platform and Product Extensions"
+},
+"industries&SolutionsLinks" : {
+    "link1": "Communications",
+    "link2": "Education",
+    "link3": "Energy and Resources",
+    "link4": "Financial Services",
+    "link5": "Healthcare",
+    "link6": "Hospitality",
+    "link7": "Life Sciences",
+    "link8": "Manufacturing",
+    "link9": "Media and Entertainment",
+    "link10": "Nonprofit",
+    "link11": "Professional and Business Services",
+    "link12": "Public Sector",
+    "link13": "Retail",
+    "link14": "Technology",
+    "link15": "Belonging and Diversity",
+    "link16": "Employee experience",
+    "link17": "ESG",
+    "link18": "Navigation COVID-19",
+    "link19": "Solutions by Org Size",
+    "link20": "Medium Enterprise",
+    "link21": "Large Enterprise",
+    "link22": "Finance",
+    "link23": "HR",
+    "link24": "IT"
+    
+},
+
+"customerExperienceLinks": {
+    "link1": "Overview",
+    "link2": "Deployment",
+    "link3": "Customer Stories",
+    "link4": "Success Plans",
+    "link5": "Education and Training",
+    "link6": "Community",
+    "link7": "Support"
+},
+"resourcesLinks": {
+    "link1" : "All Resources",
+    "link2" : "Finance",
+    "link3" : "Human Resources Management",
+    "link4" : "Planning",
+    "link5" : "Payroll",
+    "link6" : "Analytics",
+    "link7" : "Spend Management",
+    "link8" : "Suite",
+    "link9" : "Technology",
+    "link10" : "Workday Peakon Employee Voice"
+
+},
+"companyLinks": {
+    "link1" : "Our Story and Leadership",
+    "link2" : "Our Values",
+    "link3" : "Belonging and Diversity",
+    "link4" : "Investor Relations",
+    "link5" : "Public Policy",
+    "link6" : "Sponsorships",
+    "link7" : "Contact Us",
+    "link8" : "Workday Ventures",
+    "link9" : "Overview",
+    "link10" : "Foundation",
+    "link11" : "Sustainability",
+    "link12" : "Workforce Development",
+    "link13" : "Latest",
+    "link14" : "Events",
+    "link15" : "Newsroom",
+    "link16" : "Blog",
+    "link17" : "Webinars",
+    "link18" : "Overview",
+    "link19" : "Overview",
+    "link20" : "Life at Workday",
+    "link21" : "Early Career",
+    "link22" : "Global Workplace",
+    "link23" : "Job Search"
+
+}
+}
