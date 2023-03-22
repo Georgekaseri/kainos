@@ -1,7 +1,11 @@
-class HomePage{
-    get getOurTechnology(){
-        return $$("..nav-title")
-    }
+class HomePage {
+  async clickHeader(index) {
+    return await $$(".nav-title")[index].click();
+  }
 
+  async getWorkDaysList(index) {
+    return await $$(".cmp-navigation__item-link")[index].getText();
+  }
 }
-export default new HomePage();
+
+module.exports = new HomePage();

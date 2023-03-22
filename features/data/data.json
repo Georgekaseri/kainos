@@ -1,0 +1,90 @@
+{
+  "WhyWorkday": {
+    "lnk1": "Why We're Different",
+    "lnk2": "Our Technology",
+    "lnk3": "Trust"
+  },
+  "product": {
+    "lnk1": "Workday Financial Management",
+    "lnk2": "Workday Human Capital Management",
+    "lnk3": "Workday Adaptive Planning",
+    "lnk4": "Workday Peakon Employee Voice",
+    "lnk5": "Workday Strategic Sourcing"
+  },
+
+  "industriesSolutionsLinks": {
+    "link1": "Communications",
+    "link2": "Education",
+    "link3": "Energy and Resources",
+    "link4": "Financial Services",
+    "link5": "Healthcare",
+    "link6": "Hospitality",
+    "link7": "Life Sciences",
+    "link8": "Manufacturing",
+    "link9": "Media and Entertainment",
+    "link10": "Nonprofit",
+    "link11": "Professional and Business Services",
+    "link12": "Public Sector",
+    "link13": "Retail",
+    "link14": "Technology",
+    "link15": "Belonging and Diversity",
+    "link16": "Employee experience",
+    "link17": "ESG",
+    "link18": "Navigation COVID-19",
+    "link19": "Solutions by Org Size",
+    "link20": "Medium Enterprise",
+    "link21": "Large Enterprise",
+    "link22": "Finance",
+    "link23": "HR",
+    "link24": "IT"
+  },
+
+  "customerExperienceLinks": {
+    "link1": "Overview",
+    "link2": "Deployment",
+    "link3": "Customer Stories",
+    "link4": "Success Plans",
+    "link5": "Education and Training",
+    "link6": "Community",
+    "link7": "Support"
+  },
+  "resourcesLinks": {
+    "link1": "All Resources",
+    "link2": "Finance",
+    "link3": "Human Resources Management",
+    "link4": "Planning",
+    "link5": "Payroll",
+    "link6": "Analytics",
+    "link7": "Spend Management",
+    "link8": "Suite",
+    "link9": "Technology",
+    "link10": "Workday Peakon Employee Voice"
+  },
+  "companyLinks": {
+    "link1": "Our Story and Leadership",
+    "link2": "Our Values",
+    "link3": "Belonging and Diversity",
+    "link4": "Investor Relations",
+    "link5": "Public Policy",
+    "link6": "Sponsorships",
+    "link7": "Contact Us",
+    "link8": "Workday Ventures",
+    "link9": "Overview",
+    "link10": "Foundation",
+    "link11": "Sustainability",
+    "link12": "Workforce Development",
+    "link13": "Latest",
+    "link14": "Events",
+    "link15": "Newsroom",
+    "link16": "Blog",
+    "link17": "Webinars",
+    "link18": "Overview",
+    "link19": "Overview",
+    "link20": "Life at Workday",
+    "link21": "Early Career",
+    "link22": "Global Workplace",
+    "link23": "Job Search"
+  }
+}
+
+// test
